@@ -7,8 +7,10 @@ ifconfig
 بر اساس تصاویر که موجود هست  آی‌پی ها رو تغییر بده
 
 <p align="center">
-<a href="https://github.com/sinalalebakhsh/reverse-shell-for-penetration/blob/main/image.png" target="blank"><img align="center" src="https://github.com/sinalalebakhsh/reverse-shell-for-penetration/blob/main/image.png" alt="victem" height="100" width="130" /></a>
-<a href="https://github.com/sinalalebakhsh/reverse-shell-for-penetration/blob/main/111%20image.png" target="blank"><img align="center" src="https://github.com/sinalalebakhsh/reverse-shell-for-penetration/blob/main/111%20image.png" alt="attacker" height="30" width="40" /></a> </p>
+<h2>Victem</h2>
+<a href="https://github.com/sinalalebakhsh/reverse-shell-for-penetration/blob/main/image.png" target="blank"><img align="center" src="https://github.com/sinalalebakhsh/reverse-shell-for-penetration/blob/main/image.png" alt="victem" height="500" width="630" /></a>
+<h2>Attacker</h2>
+<a href="https://github.com/sinalalebakhsh/reverse-shell-for-penetration/blob/main/111%20image.png" target="blank"><img align="center" src="https://github.com/sinalalebakhsh/reverse-shell-for-penetration/blob/main/111%20image.png" alt="attacker" height="500" width="630" /></a> </p>
 
 #### 🚀 راهنمای اجرای مرحله‌به‌مرحله:
 
