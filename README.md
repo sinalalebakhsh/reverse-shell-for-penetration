@@ -90,4 +90,5 @@ kali@shell# ifconfig      # شبکه Ubuntu
 <br>
 
 ```bash
+🔹 shell> cd Desktop
 ```
