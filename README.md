@@ -8,9 +8,9 @@ ifconfig
 
 <p align="center">
 <h2>Victem</h2>
-<a href="https://github.com/sinalalebakhsh/reverse-shell-for-penetration/blob/main/image.png" target="blank"><img align="center" src="https://github.com/sinalalebakhsh/reverse-shell-for-penetration/blob/main/image.png" alt="victem" height="500" width="630" /></a>
+<a href="https://github.com/sinalalebakhsh/reverse-shell-for-penetration/blob/main/victem-ubuntu-desktop.png" target="blank"><img align="center" src="https://github.com/sinalalebakhsh/reverse-shell-for-penetration/blob/main/victem-ubuntu-desktop.png" alt="victem" height="500" width="630" /></a>
 <h2>Attacker</h2>
-<a href="https://github.com/sinalalebakhsh/reverse-shell-for-penetration/blob/main/111%20image.png" target="blank"><img align="center" src="https://github.com/sinalalebakhsh/reverse-shell-for-penetration/blob/main/111%20image.png" alt="attacker" height="500" width="630" /></a> </p>
+<a href="https://github.com/sinalalebakhsh/reverse-shell-for-penetration/blob/main/attacker-ubuntu-desktop.png" target="blank"><img align="center" src="https://github.com/sinalalebakhsh/reverse-shell-for-penetration/blob/main/attacker-ubuntu-desktop.png" alt="attacker" height="500" width="630" /></a> </p>
 
 #### 🚀 راهنمای اجرای مرحله‌به‌مرحله:
 
